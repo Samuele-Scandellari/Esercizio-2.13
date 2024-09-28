@@ -1,0 +1,3 @@
+C:/Users/Utente/CLionProjects/Esercizio 2.13/cmake-build-debug/CMakeFiles/Esercizio_2_13.dir
+C:/Users/Utente/CLionProjects/Esercizio 2.13/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utente/CLionProjects/Esercizio 2.13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
